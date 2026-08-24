@@ -1,36 +1,31 @@
-# Customer Shopping Behavior Analysis
-
-## Project Overview
-This project analyzes customer shopping behavior to understand purchasing patterns, customer preferences, and sales-related trends.
-
-## Objectives
-- Analyze customer shopping behavior
-- Identify purchasing patterns
-- Understand customer preferences
-- Analyze sales and product-related trends
-- Generate useful business insights using SQL and Power BI
-
-## Tools & Technologies
-- SQL
-- Power BI
-- Data Analysis
-- Data Visualization
-
-## Project Files
-- Customer_Shopping_Analysis sql.sql – SQL queries used for customer shopping behavior analysis
-
-## Analysis
-SQL was used to explore and analyze the customer shopping dataset. The analysis focuses on customer characteristics, purchasing behavior, product preferences, and other relevant business metrics.
-
-## Dashboard
-A Power BI dashboard was created to visualize the analyzed data and present insights in an easy-to-understand format.
-
-## Key Skills Demonstrated
-- SQL querying
-- Data cleaning and analysis
-- Data visualization
-- Business insight generation
-- Power BI dashboard development
-
-## Author
-Akshay Narba Waghmare
+Data Analyst Project – Sales Analysis
+📌 Project Overview
+This project is a data analysis and business intelligence project developed using Python, SQL, and Power BI.
+The objective of this project is to analyze the data, identify important business insights, and present the findings through an interactive Power BI dashboard.
+🛠️ Tools & Technologies
+Python
+SQL
+Power BI
+Excel / CSV
+🔄 Project Workflow
+Data → Python → SQL → Power BI → Dashboard
+🐍 Python
+Python was used for data processing, cleaning, and analysis.
+🗄️ SQL
+SQL was used to store, query, filter, and analyze the data.
+📊 Power BI
+Power BI was used to create an interactive dashboard and visualize important KPIs and business insights.
+📄 Project Report
+A detailed project report is included in this repository explaining the project methodology, analysis, and findings.
+📁 Project Files
+Python files – Data cleaning and analysis
+SQL files – Database queries and analysis
+Power BI file – Interactive dashboard
+Project Report – Detailed documentation
+🎯 Skills Demonstrated
+Data Cleaning
+Data Analysis
+SQL Queries
+Data Visualization
+Dashboard Development
+Business Intelligence
