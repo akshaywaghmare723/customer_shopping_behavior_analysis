@@ -1,5 +1,5 @@
-Data Analyst Project – Sales Analysis
-📌 Project Overview
+# Data Analyst Project – Sales Analysis
+## 📌 Project Overview
 This project is a data analysis and business intelligence project developed using Python, SQL, and Power BI.
 The objective of this project is to analyze the data, identify important business insights, and present the findings through an interactive Power BI dashboard.
 🛠️ Tools & Technologies
